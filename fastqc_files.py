@@ -23,4 +23,4 @@ command2 = 'mv ' + seq_dir + '/' + '*.zip ' + fastqc_dir
 print (command2)
 os.system(command2)
 
-print ('#done')    
+print ('#completed')    
